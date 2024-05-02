@@ -1,4 +1,4 @@
-# Portfolio d'Amélia PILOU
+# Portfolio de Julien APAP
 
 ### Objectifs : 
 ##### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
